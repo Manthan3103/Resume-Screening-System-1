@@ -118,7 +118,7 @@ python main.py
 ### GUI Screenshots
 
 **Starting Page:**
-![alt text](<Screenshot 2026-03-29 at 4.38.58 PM.png>)
+WhatsApp Image 2026-03-29 at 5.09.41 PM.jpeg
 
 **Result Page (After Analysis):**
 ![alt text](<Screenshot 2026-03-29 at 4.39.31 PM.png>)
