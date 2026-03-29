@@ -264,9 +264,9 @@ Simply add an entry to `roles.json`:
 
 ## 👤 Author
 
-- **Name**: [Manthan]
-- **Registration No**: [25BCE10321]
-- **Course**: CSA2001 — Artificial Intelligence
+- **Name**: Manthan Bobade
+- **Registration No**: 25BCE10321
+- **Course**: CSA2001 — Artificial Intelligence and Machine Learning
 - **University**: VIT Bhopal University
 
 ---
